@@ -1,7 +1,6 @@
 ## Olá, me chamo Robert Pereira
 
-- 🔭 Atualmente trabalho com Front-End
-- 🌱 Estudando TypeScript
+- 🔭 Atualmente trabalho com Front-End na Saurus Software
 - 📫 Contate-me no email: robert.pdj@outlook.com
 - 😄 Pronouns: ele/dele
 
